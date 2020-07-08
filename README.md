@@ -1,2 +1,2 @@
-# supreethv
+# supreethv.github.io
 Web page
